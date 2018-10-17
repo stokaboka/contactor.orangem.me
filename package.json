@@ -10,7 +10,7 @@
     "lint": "eslint --ext .js,.vue src",
     "test": "echo \"No test specified\" && exit 0",
     "dev": "quasar dev",
-    "serve": "quasar serve ./dist/spa-mat --open --history"
+    "serve": "quasar serve ./dist/spa-mat --open"
   },
   "dependencies": {
     "axios": "^0.18.0",
